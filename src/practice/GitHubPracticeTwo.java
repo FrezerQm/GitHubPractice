@@ -12,7 +12,7 @@ public class GitHubPracticeTwo {
 	}
 	
 	public static int multiple(int a, int b) {
-		int c = a + b;
+		int c = a * b;
 		return c;
 	}
 
