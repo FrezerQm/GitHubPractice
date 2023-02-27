@@ -15,5 +15,10 @@ public class GitHubPracticeTwo {
 		int c = a + b;
 		return c;
 	}
+	
+	public static int devide (int a, int b){
+		int c = b/a;
+		return c;
+	}
 
 }
